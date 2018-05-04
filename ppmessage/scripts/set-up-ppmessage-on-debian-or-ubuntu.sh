@@ -108,6 +108,8 @@ pip install \
     tornado \
     xlrd
 
+pip install flask-SQLAlchemy
+
 # to support mysql/postgresql needs more installation
 # apt-get install mysql-server postgresql libpq-dev
 # pip install psycopg2
