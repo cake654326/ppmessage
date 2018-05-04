@@ -101,7 +101,7 @@ pip install \
     python-dateutil \
     python-gcm \
     python-magic \
-    qrcode \
+    "qrcode==5.3" \
     readline \
     redis \
     sqlalchemy \
